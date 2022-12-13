@@ -1,4 +1,4 @@
-# Projeto-Assembly
+# Projeto-VHDL
 
-* Projeto assembly grupo Bernardo Cortina Zanetti e Mariana Wagner
-* Arquivo .txt no repositório
+* Projeto VHDL grupo Bernardo Cortina Zanetti e Mariana Wagner
+* Arquivo .vhd no repositório
